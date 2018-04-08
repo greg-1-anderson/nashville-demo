@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace NashvilleDemo;
 
 use PHPUnit\Framework\TestCase;
 
